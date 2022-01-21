@@ -1,6 +1,6 @@
 ### Do Developers Really Understand C# Secure Coding Guidelines? A Large-Scale Study on Stack Overflow
 
-1、*RQ1&2-result.csv* is our RQ1 and RQ2 study data.
+1、*RQ1&2-result.zip* is our RQ1 and RQ2 study data.
 
 2、*RQ3-survey.xlsx* is our RQ3 user survey content and results.
 
